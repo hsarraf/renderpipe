@@ -32,4 +32,4 @@ Contact
 -------
 any suggestions or bug reports can be sent through this email address,
 
-mail@hsaraf.com
+mail.sarraf@gmail.com
